@@ -154,8 +154,11 @@ section {
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: 25px;
+  /*padding: 25px;*/
   /* background-color:var(--background-main); */
+}
+.navbar-links{
+  padding-top:15px;
 }
 .navbar-links li {
   list-style: none;
