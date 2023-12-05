@@ -199,6 +199,9 @@ h1,
   transform: translate(100%);
 }
 
+.fa-moon,.fa-sun{
+  padding-top:15px;
+}
 .link-active {
   color: var(--main-color);
 }
